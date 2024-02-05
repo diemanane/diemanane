@@ -76,7 +76,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/diemanane/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdiemanane&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="diemanane :: Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diemanane&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="diemanane :: Top Langs" />
           </a>
        </p>
      <br>
